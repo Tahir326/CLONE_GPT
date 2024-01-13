@@ -1,3 +1,11 @@
-# . CLONE_GPT (CHATGPT CLONE)
+# CLONE_GPT (CHATGPT CLONE)
+
+## DEMO VIDEO:
+https://github.com/Tahir326/CLONE_GPT/assets/119787687/31411ffe-f121-46de-9f49-dbcd97d01599
+
+### MOBILE VERSION (DEMO):
+https://github.com/Tahir326/CLONE_GPT/assets/119787687/60525495-9408-44d5-8bd8-3f98fd8fa679
+
+
 
 
